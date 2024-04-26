@@ -9,3 +9,5 @@
 - **Reproduction**: A dead cell with exactly three live neighbors becomes a live cell.
 
 In this repository I'm recreating the **game of life** using **C language** in Linux.
+
+<p><a href="https://fr.wikipedia.org/wiki/Jeu_de_la_vie"><img src="//upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif"></a></p>

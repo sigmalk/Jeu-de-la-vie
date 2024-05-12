@@ -13,7 +13,6 @@ int main(){
     while(1){
         system("clear");
         print_grid(&grid[0][0], width, height);
-        printf("\033[106m  \033[0m");
         usleep(10000);
     }
 
